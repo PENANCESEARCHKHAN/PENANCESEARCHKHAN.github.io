@@ -1,3 +1,6 @@
+@media(max-width:10000px){
+...... your css styles
+
 body{
     background-color: slateblue
 }
@@ -24,6 +27,7 @@ body{
 }
 .D
     columns: white;
+}
 }
 
 
